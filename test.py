@@ -2,6 +2,9 @@ print("Commit 1")
 print("Commit 2")
 print("Commit 3")
 print("Commit 4")
+
 print("Commit 5")
 print("Commit 6")
+
 print("Commit 7")
+print("Commit 8")
